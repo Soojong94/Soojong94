@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
 <!--
 **Soojong94/Soojong94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
