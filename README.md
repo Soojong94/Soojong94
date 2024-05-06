@@ -3,7 +3,7 @@
 
 #  Hi, This is Soojong Kim </div>
 
-### ⭐As a back-end engineer who systematically understands and meets the needs of clients, I aim to provide the best experience to users based on our endless passion.
+### ⭐As a back-end engineer who systematically understands and meets the needs of clients, I aim to provide the best experience to users based on my endless passion.
 
 ### ⭐Further, I would like to build a progressive process model.
 
