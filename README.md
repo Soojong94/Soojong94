@@ -3,8 +3,9 @@
 
 #  Hi, This is Soojong Kim </div>
 
-### ⭐클라이언트의 요구를 체계적으로 이해하고 충족시키는 백엔드 엔지니어로, 끊임없는 열정을 바탕으로 사용자들에게 최고의 경험을 제공하고자 합니다. 
-### ⭐더 나아가 발전적인 프로세스 모델을 구축해나가고자 합니다. 
+### ⭐As a back-end engineer who systematically understands and meets the needs of clients, we aim to provide the best experience to users based on our endless passion.
+
+### ⭐Further, we would like to build a progressive process model.
 
 
 <br/>
