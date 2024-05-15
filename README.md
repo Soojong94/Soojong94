@@ -10,6 +10,13 @@
 ### ⭐ my homepage
 #### https://soojong94.github.io/myHomepage/
 
+### ⭐ coding test
+#### https://solved.ac/profile/sujjong456
+
+### ⭐ blog
+#### https://blog.naver.com/for_tonight
+
+
 
 <br/>
 
