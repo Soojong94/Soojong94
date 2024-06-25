@@ -24,6 +24,7 @@
 ##  언어와 도구 🔥
 
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+ <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <!--  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -->
 
 <!--  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> -->
@@ -32,6 +33,37 @@
 
 
 ## 수행 프로젝트 💌
+
+### 🔴 MFCC와 CRNN을 활용한 기침 소리 분석 서비스 [ 5인 팀프로젝트]
+
+  #### ✅ 기술스택  
+  
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+  </div>
+
+ 
+
+
+  #### ✅ <code>팀장</code> <code>PM</code> <code>프론트엔드</code> <code>백엔드</code> 
+<strong> 프로젝트 기간 : </strong> 2024 / 05 / 22 ~ 2024 / 06 / 20
+
+<strong>프로젝트 내용 : </strong> MFCC와 CRNN을 활용한 기침 소리 분석 서비스(딥러닝)
+
+github : https://github.com/Soojong94/SilJeon.git
+
+ppt : https://www.miricanvas.com/v/137qox2
+
+<strong>배우고 느낀 것 : </strong>
+  - 팀장이자 PM으로 진행한 세번째 프로젝트. 
+  - 기침 소리 분석은 공공성을 띄는 프로젝트였기 때문에 최대한 빠르게 개발하여 접근성을 높이는 것이 중요하다고 판단했고, 배포까지 진행해봄
+  - 프론트엔드와 백엔드는 1주일 정도 내로 완료
+  - 나를 포함한 팀원들이 모두 배포는 처음해봤기 때문에 도커, 쿠버네티스를 배우는 것에 많은 시간을 할애함
+  - CI / CD 및 배포 환경을 만드는 것이 개발자 서버에서 개발하는 것과는 많은 차이가 있다는 것을 알게 되었음 
+
+<strong>트러블 슈팅 :</strong>
+- 개발자 서버와 배포용 서버의 차이에서 오는 어려움, 특히 배포하는 과정에서 구글 로그인 관련 정책 통과를 해야하는데 nginx와 letsEncrypt 보안 서비스를 이용하여 해결
+- EKS를 이용해보고자 했는데, 요금이 비싼 것을 확인하고 서비스 볼륨에 맞춰 EC2 인스턴스를 우분투 환경에서 운용하여 배포 진행
+<br/>
 
 
 ### 🔴 REACT.JS, EXPRESS.JS 를 활용한 게임 시청자를 위한 일정관리 서비스 [ 5인 팀프로젝트 ]
