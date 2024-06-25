@@ -44,7 +44,7 @@
  
 
 
-  #### ✅ <code>팀장</code> <code>PM</code> <code>프론트엔드</code> <code>백엔드</code> 
+  #### ✅ <code>팀장</code> <code>PM</code> <code>프론트엔드</code> <code>배포</code> 
 <strong> 프로젝트 기간 : </strong> 2024 / 05 / 22 ~ 2024 / 06 / 20
 
 <strong>프로젝트 내용 : </strong> MFCC와 CRNN을 활용한 기침 소리 분석 서비스(딥러닝)
