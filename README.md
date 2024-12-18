@@ -13,8 +13,8 @@
 ### ⭐ coding test
 #### https://solved.ac/profile/sujjong456
 
-### ⭐ blog
-#### https://blog.naver.com/for_tonight
+### ⭐ notion
+#### https://www.notion.so/13d63c12421780c0b5edfebd08b16a4b
 
 
 
