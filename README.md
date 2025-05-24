@@ -15,7 +15,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 ##
 📍 **Current Focus**: Kubernetes, Infrastructure Monitoring, Cloud Architecture Design  
-📊 **Monitoring**: 광양, 담양, 순천시 등 10개 기관  
+📊 **Monitoring**: 광양, 담양, 순천 등 10개 기관  
 🔧 **Specialization**: IaaS, Middleware, Troubleshooting, Linux
 
 ## 🎯 What Makes Me Different
