@@ -1,22 +1,82 @@
 <div align = center><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=KIM%20SOOJONG&reversal=true">
 
 
-#  Hi, This is Soojong Kim </div>
+# Hi, I'm Soojong Kim 👋
+**🔥 Cloud Solutions Architect | Infrastructure Specialist | DevOps Engineer**
 
-### ⭐As a Cloud Solutions Architect who systematically understands and meets the needs of clients, I aim to provide the best experience to users based on my endless passion.
+현재 공공기관 클라우드 인프라를 관제하며, **IaaS부터 Kubernetes 오케스트레이션 및 DaaS**까지 
+end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다.
 
-### ⭐Further, I would like to build a progressive process model.
+**"체계적인 요구사항 분석을 통해 최적의 사용자 경험을 제공하는 것"**이 저의 목표입니다.
 
-### ⭐ my homepage
-#### https://soojong94.github.io/myHomepage/
+📍 **Current Focus**: Kubernetes, Infrastructure Monitoring, Cloud Architecture Design
+📊 **Monitoring**: 광양 , 담양, 순천시 등 10개 기관
+🔧 **Specialization**: DaaS, CI/CD Pipeline, Security Implementation
 
-### ⭐ coding test
-#### https://solved.ac/profile/sujjong456
+## 🎯 Production Infrastructure Management
 
-### ⭐ CloudInfo
-#### https://cloudrepo.kro.kr/
+### 공공기관 클라우드 인프라 관제 (10개 기관)
+- **광양 SOC** | **담양군 농업기술센터** | **순천시 온누리 공영자전거**
+- **익산시 도시관리공단** | **천안시 농업기술센터** | **경기도 농업기술원**
+- **여수시 산책로 범죄예방시스템** | **보령시 농업기술센터** | **고창 디지털 타운** |
+- **무주군 스마트 경로당** | 
+
+**💼 주요 업무 영역**
+- 🛡️ **Security Consulting**: 접속 차단, 보안 정책 수립
+- 🌐 **API Integration**: API 구축 및 최적화
+- ⚡ **Performance Optimization**: CDN 구성, Load Balancer 설계
+- 🔍 **Monitoring & Logging**: Agent 설치, 시스템 모니터링 구축
+- 🏗️ **Infrastructure Design**: 신규 서비스 인프라 아키텍처 설계
+
+**Container Orchestration**
+- Kubernetes cluster 구성 및 관리
+- Docker containerization 및 최적화
+- CI/CD pipeline 구축 (Jenkins)
+
+**Cloud Architecture**
+- Cloud 환경 설계 (AWS, Naver Cloud Platform, KT Cloud)
+- Load Balancer 구성 및 트래픽 관리
+- CDN 최적화 및 성능 튜닝
+
+**Security & Networking**
+- SSL/TLS 인증서 관리
+- Nginx/Apache 구성
+- Network Access Control 및 방화벽 정책
+
+**Backend Development**
+- gRPC 통신 및 BFF 아키텍처 구현
+- RESTful API 설계 및 개발
+
+**Integration & API**
+- 외부 API 통합 (Papago Translation, 방화벽 등)
+- Real-time 데이터 처리 (WebSocket, Server-Sent Events)
+- Microservices 아키텍처 설계
+
+## 🔧 Recent Technical Consulting Cases
+
+### 🛡️ Security & Access Control
+- **DeepSeek 접속 차단**: hosts 파일 + 방화벽 이중 차단 구현
+- **KT AICC 도입**: 기존 인프라와 신규 서비스 간 충돌 분석 (국정원 제출용)
+
+### 🌐 API & Integration Solutions  
+- **Naver Papago API**: 전북대 번역 서비스 응답속도 및 전송량 최적화
+- **Translation Service**: Text/Website Translation 혼합 사용으로 비용 최적화
+
+### ⚡ Performance & Infrastructure
+- **고창 CDN 추가**: 글로벌 콘텐츠 전송 최적화
+- **광양 Load Balancer 구성**: 신규 사이트 트래픽 분산 아키텍처 설계
+- **순천시 로그 수집**: Agent 설치를 위한 네트워크 구성
+
+### 🔍 Monitoring & Troubleshooting
+- **메일 서버 용량 최적화**: 스토리지 사용량 분석 및 용량 할당 전략 수립
+- **광양 아이키움 미들웨어**: 시스템 연동 및 디렉토리 권한 관리
 
 
+## 🌐 Portfolio Links
+
+**🏠 Homepage**: https://soojong94.github.io/myHomepage/
+**💻 Coding Test**: https://solved.ac/profile/sujjong456  
+**☁️ Cloud Knowledge Base**: https://cloudrepo.kro.kr/
 
 <br/>
 
