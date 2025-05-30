@@ -186,6 +186,47 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 **실무 적용**: 매월 안정적으로 모니터링 리포트를 자동 생성하고 있음
 
 
+
+## 🔴 gRPC 에러 처리 패턴 구현 시스템 [ 개인 프로젝트 ]
+
+#### ✅ 기술스택  
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+</div>
+
+#### ✅ `개인 프로젝트` `Backend Developer` `DevOps Engineer` `Microservices Architect`
+
+**프로젝트 기간**: 2025.03.04 ~ 2025.03.31 (4주)
+
+**프로젝트 개요**: MSA 환경에서의 안정적인 서비스 운영을 위한 gRPC 에러 처리 패턴(Circuit Breaker, Deadline, Backpressure) 구현 및 시각화 시스템
+
+**GitHub**: [https://github.com/Soojong94/grpc-error-handling.git]  
+
+**핵심 성과**:
+- **🛡️ 에러 처리 패턴 구현**: Circuit Breaker, Deadline, Backpressure 3가지 핵심 패턴 완전 구현
+- **📊 실시간 모니터링**: WebSocket 기반 실시간 로그 수집 및 시각화 대시보드 구축
+- **🏗️ MSA 아키텍처**: Frontend-BFF-Backend-DB 4계층 마이크로서비스 구조 설계
+- **⚡ 적응형 시스템**: P95 기반 동적 타임아웃 조정 및 서킷브레이커 연동 시스템
+
+**기술적 구현**:
+- **Circuit Breaker**: 실패율 기반 자동 차단 및 Half-Open 상태 관리
+- **Adaptive Deadline**: 실행 시간 통계 기반 동적 타임아웃 조정
+- **Backpressure Control**: 시간 윈도우 기반 요청 제한 및 동시 처리 수 제어
+- **실시간 로깅**: gRPC 인터셉터와 Socket.IO를 활용한 실시간 디버깅 환경
+
+**DevOps & 인프라**:
+- **컨테이너화**: Docker Compose 기반 로컬 개발 환경 구성
+- **K8s 배포**: Kubernetes 매니페스트 기반 프로덕션 배포 환경
+- **모니터링**: 패턴별 상태 추적 및 성능 메트릭 수집
+
+**비즈니스 가치**: 
+- **서비스 안정성 향상**: 장애 전파 방지 및 복구 시간 단축
+- **운영 효율성**: 실시간 모니터링을 통한 proactive 장애 대응
+- **학습 플랫폼**: gRPC 에러 처리 패턴 학습을 위한 실습 환경 제공
+
+
+
 ### 🔴 AI 기반 기침 소리 분석 서비스 [ 5인 팀프로젝트 ]
 
 #### ✅ 기술스택  
