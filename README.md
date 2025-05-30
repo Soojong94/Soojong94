@@ -262,7 +262,6 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
 
-#### ✅ `개인 프로젝트` `Backend Developer` `DevOps Engineer` `Microservices Architect`
 
 **프로젝트 기간**: 2025.03.04 ~ 2025.03.31 (4주)
 
@@ -303,7 +302,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 </div>
 
-#### ✅ `팀장` `DevOps Engineer` `Frontend Developer` `Infrastructure Architect`
+#### ✅ `팀장`
 
 **프로젝트 기간**: 2024.05.22 ~ 2024.06.20 (4주)
 
@@ -336,7 +335,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-#### ✅ `팀장` `Full-Stack Developer` `System Architect`
+#### ✅ `팀장`
 
 **프로젝트 기간**: 2024.03.20 ~ 2024.04.05 (3주)
 
@@ -369,7 +368,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
 
-#### ✅ `팀장` `Backend Developer` `Database Architect`
+#### ✅ `팀장`
 
 **프로젝트 기간**: 2024.01.26 ~ 2024.01.30 (1주)
 
