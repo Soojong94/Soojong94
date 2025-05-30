@@ -125,7 +125,64 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 </div>
 
-## 수행 프로젝트 💌
+## 수행 프로젝트
+
+### 🔴 Grafana 모니터링 리포트 자동 생성 시스템 [ 개인 프로젝트 ]
+
+#### ✅ 기술스택  
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+</div>
+
+
+**프로젝트 기간**: 2024.04 ~ 2025.05(수시 업데이트 진행) 
+
+**프로젝트 개요**: Grafana 대시보드에서 자동으로 차트 이미지를 수집하고, 월간 모니터링 리포트를 HTML 형태로 자동 생성하는 자동화 시스템
+
+**Documentation**: [완전한 설치/설정 가이드 포함]
+
+**핵심 성과**:
+- **⏰ 업무 효율화**: 기존 **수동 4시간 → 자동 10분**으로 **96% 시간 단축**
+- **🎯 무인 자동화**: WireGuard VPN을 통한 원격 자동 수집 및 리포트 생성
+- **📊 통합 관리**: 서로 다른 모니터링 환경을 단일 설정으로 통합 관리
+- **🔒 보안 준수**: 보안 정책을 만족하는 안전한 API 토큰 기반 인증
+
+**기술적 도전과 해결**:
+- **API 최적화**: Grafana 이미지 렌더링 API를 활용한 대용량 차트 자동 다운로드 시스템 구축
+- **템플릿 엔진 개발**: Jinja2 스타일의 커스텀 HTML 템플릿 시스템으로 동적 리포트 생성
+- **설정 통합**: 기존 분산된 JSON 설정을 unified_config.json 하나로 통합하여 관리 복잡도 90% 감소
+- **오류 처리**: 네트워크 이슈, 토큰 만료, 이미지 렌더링 실패 등 실무 환경의 예외상황 대응
+
+**시스템 아키텍처**:
+
+[수집 대상 10개 기관] 
+    
+    ↓ (WireGuard VPN)
+    
+[중앙 Prometheus + Grafana 서버]
+    
+    ↓ (HTTP API)
+    
+[자동화 시스템 - Python + PowerShell]
+    
+    ↓ (Template Engine)
+    
+[월간 HTML 리포트 자동 생성]
+
+
+**DevOps 자동화 구현**:
+- **설정 검증**: `enhanced_config_validator.py`로 JSON 스키마 및 비즈니스 로직 사전 검증
+- **배치 실행**: `runall.bat`으로 수집 → 생성 → 검증까지 원클릭 자동화
+- **버전 관리**: 동일 파일명 충돌 방지를 위한 자동 버전 넘버링 시스템
+
+**비즈니스 임팩트**: 
+- **운영 효율성**: 월말 리포트 작업에서 **인적 자원 96% 절약**
+- **품질 향상**: 수동 오류 제거로 **일관된 품질의 리포트** 보장
+- **확장성**: 신규 시스템 추가 시 설정 파일만 수정하면 즉시 적용 가능
+
+**실무 적용**: 매월 안정적으로 모니터링 리포트를 자동 생성하고 있음
+
 
 ### 🔴 AI 기반 기침 소리 분석 서비스 [ 5인 팀프로젝트 ]
 
