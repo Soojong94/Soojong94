@@ -15,10 +15,11 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 ##
 📍 **Current Focus**: Kubernetes, Infrastructure Monitoring, Cloud Architecture Design  
-📊 **Monitoring**: 광양, 담양, 순천 등 10개 기관  
+📊 **Monitoring**: 지역별 10개 공공기관  
 🔧 **Specialization**: IaaS, Middleware, Troubleshooting, Linux
 
-## 🎯 What Makes Me Different
+<details>
+<summary>🎯 <strong>What Makes Me Different</strong></summary>
 
 ### 🔥 **공공기관 실무 경험 보유자**
 > 이론이나 토이프로젝트 경험만 있는 게 아닌,
@@ -30,9 +31,12 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 ### 🚀 **신속한 문제 해결 능력**
 > 긴급 상황 발생 시 **핵심 문제 파악 및 해결책 도출**
-> 국정원 제출용 보안 분석서까지 작성할 수 있는 전문성
+> 보안 당국 제출용 보안 분석서까지 작성할 수 있는 전문성
 
-## 🎯 Production Infrastructure Management
+</details>
+
+<details>
+<summary>🎯 <strong>Production Infrastructure Management</strong></summary>
 
 ### 💼 공공기관 클라우드 인프라 관제 (10개 기관)
 - **운영 안정성 99.9% 달성** (연간 다운타임 8시간 미만)
@@ -46,20 +50,26 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 - 🔍 **Monitoring & Logging**: Agent 설치, 시스템 모니터링 구축
 - 🏗️ **Infrastructure Design**: 신규 서비스 인프라 아키텍처 설계
 
-## 🏆 Achievements
+</details>
+
+<details>
+<summary>🏆 <strong>Achievements</strong></summary>
 
 ### 📈 주요 성과
 - **⚡ 시스템 안정성 99.9% 달성** - 10개 공공기관 무중단 서비스 운영
 - **💰 클라우드 비용 30% 절감** - 인프라 최적화를 통한 예산 효율성 증대
-- **🛡️ 보안 사고 제로** - 체계적인 보산 정책 수립 및 관리
+- **🛡️ 보안 사고 제로** - 체계적인 보안 정책 수립 및 관리
 - **🥇 교육기관 프로젝트 팀장 3회 및 스터디 장** - 검증된 리더십과 프로젝트 관리 능력
 
 ### 🎯 멘토링 & 교육 경력
-- **스마트인재개발원 멘토** (클라우드 특례/AI서비스 엔지니어 과정, 2024-2025)
-- **대학교 클라우드 특강** (한라대, 전남대, 광주대 등 AWS/NCP 교육)
-- **고등학교 진로 멘토링** (광주SW마이스터고 클라우드 진로 특강)
+- **교육기관 멘토** (클라우드 특례/AI서비스 엔지니어 과정, 2024-2025)
+- **대학교 클라우드 특강** (다수 대학교 AWS/NCP 교육)
+- **고등학교 진로 멘토링** (SW마이스터고 클라우드 진로 특강)
 
-## 🛠 Technical Expertise
+</details>
+
+<details>
+<summary>🛠 <strong>Technical Expertise</strong></summary>
 
 ### Container Orchestration
 - Kubernetes cluster 구성 및 관리
@@ -73,37 +83,43 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 - 3rd Party Tool 세팅
 
 ### Security & Networking
-- SSL/TLS 인증서 관리 (Let's Encrypt)
+- SSL/TLS 인증서 관리
 - Nginx/Apache 리버스 프록시 구성
 - Network Access Control 및 방화벽 정책
 - WAF 세팅 및 보안 강화
 
 ### Integration & API
-- 외부 API 통합 (Papago Translation, 결제 시스템 등)
+- 외부 API 통합
 - Real-time 데이터 처리 (WebSocket, Server-Sent Events)
 - Microservices 아키텍처 설계
 - gRPC 통신 및 BFF 아키텍처 구현
 
-## 🔧 Recent Technical Consulting Cases
+</details>
+
+<details>
+<summary>🔧 <strong>Recent Technical Consulting Cases</strong></summary>
 
 ### 🛡️ Security & Access Control
-- **DeepSeek 접속 차단**: hosts 파일 + 방화벽 이중 차단
-- **KT AICC 도입**: 기존 인프라와 신규 서비스 간 충돌 분석 (국정원 제출용)
+- **AI 서비스 접속 차단**: hosts 파일 + 방화벽 이중 차단
+- **신규 AI 플랫폼 도입**: 기존 인프라와 신규 서비스 간 충돌 분석 (보안 당국 제출용)
 
 ### 🌐 API & Integration Solutions  
-- **Naver Papago API**: 전북대 번역 서비스 응답속도 및 전송량 최적화
+- **번역 API 최적화**: 대학교 번역 서비스 응답속도 및 전송량 최적화
 - **Translation Service**: Text/Website Translation 혼합 사용으로 비용 최적화
 
 ### ⚡ Performance & Infrastructure
-- **고창 CDN 추가**: 글로벌 콘텐츠 전송 최적화
-- **광양 Load Balancer 구성**: 사이트 트래픽 분산 아키텍처 설계
-- **순천시 로그 수집**: Agent 설치를 위한 네트워크 구성
+- **A지역 CDN 추가**: 글로벌 콘텐츠 전송 최적화
+- **B지역 Load Balancer 구성**: 사이트 트래픽 분산 아키텍처 설계
+- **C지역 로그 수집**: Agent 설치를 위한 네트워크 구성
 
 ### 🔍 Monitoring & Troubleshooting
 - **메일 서버 용량 최적화**: 스토리지 사용량 분석 및 용량 할당 전략 수립
-- **광양 아이키움 미들웨어**: 시스템 연동 및 디렉토리 권한 관리
+- **D지역 교육 시스템 미들웨어**: 시스템 연동 및 디렉토리 권한 관리
 
-## 🎮 Fun Facts About Me
+</details>
+
+<details>
+<summary>🎮 <strong>Fun Facts About Me</strong></summary>
 
 - **🧩 Problem Solver**: 알고리즘 문제 해결을 즐기며, 이 논리적 사고를 실무에 적용
 - **📚 Tech Educator**: 복잡한 기술을 쉽게 설명하는 강의와 멘토링 전문가
@@ -113,28 +129,33 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 **💡 "기술은 사람을 위해 존재한다"는 신념으로, 
 복잡한 기술을 사용자 친화적인 솔루션으로 만드는 것이 저의 강점입니다.**
 
+</details>
+
 <br/>
 
+<details>
+<summary>🔥 <strong>언어와 도구</strong></summary>
 
 <div align="center">
-
-## 언어와 도구 🔥
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 
 </div>
 
-## 수행 프로젝트
+</details>
 
-## 🔴 차량 운행 관리 시스템 [ 개인 프로젝트 ]
+<details>
+<summary>📂 <strong>수행 프로젝트</strong></summary>
 
-### ✅ 기술스택  
+<details>
+<summary>🔴 <strong>차량 운행 관리 시스템 [ 개인 프로젝트 ]</strong></summary>
+
+### ✅ 기술스택
 
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
-
 
 **프로젝트 기간**: 2025.05 ~ 진행중 (바이브 코딩 개발)
 
@@ -171,16 +192,16 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 **지속적 개선**: 라이브 코딩 / 바이브 코딩 방식으로 실시간 기능 개선 및 새로운 요구사항 반영 중
 
+</details>
 
+<details>
+<summary>🔴 <strong>Grafana 모니터링 리포트 자동 생성 시스템 [ 개인 프로젝트 ]</strong></summary>
 
-### 🔴 Grafana 모니터링 리포트 자동 생성 시스템 [ 개인 프로젝트 ]
-
-#### ✅ 기술스택  
+### ✅ 기술스택
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
 </div>
-
 
 **프로젝트 기간**: 2024.04 ~ 2025.05(수시 업데이트 진행) 
 
@@ -192,7 +213,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 **핵심 성과**:
 - **⏰ 업무 효율화**: 기존 **수동 4시간 → 자동 10분**으로 **96% 시간 단축**
-- **🎯 무인 자동화**: WireGuard VPN을 통한 원격 자동 수집 및 리포트 생성
+- **🎯 무인 자동화**: VPN을 통한 원격 자동 수집 및 리포트 생성
 - **📊 통합 관리**: 서로 다른 모니터링 환경을 단일 설정으로 통합 관리
 - **🔒 보안 준수**: 보안 정책을 만족하는 안전한 API 토큰 기반 인증
 
@@ -205,19 +226,18 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 **시스템 아키텍처**:
 
 [수집 대상 10개 기관] 
-    
-    ↓ (WireGuard VPN)
-    
+   
+   ↓ (VPN)
+   
 [중앙 Prometheus + Grafana 서버]
-    
-    ↓ (HTTP API)
-    
+   
+   ↓ (HTTP API)
+   
 [자동화 시스템 - Python + PowerShell]
-    
-    ↓ (Template Engine)
-    
+   
+   ↓ (Template Engine)
+   
 [월간 HTML 리포트 자동 생성]
-
 
 **DevOps 자동화 구현**:
 - **설정 검증**: `enhanced_config_validator.py`로 JSON 스키마 및 비즈니스 로직 사전 검증
@@ -231,11 +251,12 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 **실무 적용**: 매월 안정적으로 모니터링 리포트를 자동 생성하고 있음
 
+</details>
 
+<details>
+<summary>🔴 <strong>gRPC 에러 처리 패턴 구현 시스템 [ 개인 프로젝트 ]</strong></summary>
 
-## 🔴 gRPC 에러 처리 패턴 구현 시스템 [ 개인 프로젝트 ]
-
-#### ✅ 기술스택  
+### ✅ 기술스택
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -271,11 +292,12 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 - **운영 효율성**: 실시간 모니터링을 통한 proactive 장애 대응
 - **학습 플랫폼**: gRPC 에러 처리 패턴 학습을 위한 실습 환경 제공
 
+</details>
 
+<details>
+<summary>🔴 <strong>AI 기반 기침 소리 분석 서비스 [ 5인 팀프로젝트 ]</strong></summary>
 
-### 🔴 AI 기반 기침 소리 분석 서비스 [ 5인 팀프로젝트 ]
-
-#### ✅ 기술스택  
+### ✅ 기술스택
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
@@ -303,9 +325,12 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 **비즈니스 임팩트**: 공공 헬스케어 서비스로서의 접근성을 위해 빠른 배포와 안정성을 동시에 확보
 
-### 🔴 실시간 게임 일정 관리 플랫폼 [ 5인 팀프로젝트 ]
+</details>
 
-#### ✅ 기술스택  
+<details>
+<summary>🔴 <strong>실시간 게임 일정 관리 플랫폼 [ 5인 팀프로젝트 ]</strong></summary>
+
+### ✅ 기술스택
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -333,9 +358,12 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 **비즈니스 가치**: 사용자 중심 UX 설계를 통한 게임 커뮤니티 플랫폼의 새로운 접근 방식 제시
 
-### 🔴 Java 기반 실시간 대전 게임 시스템 [ 4인 프로젝트 ]
+</details>
 
-#### ✅ 기술스택  
+<details>
+<summary>🔴 <strong>Java 기반 실시간 대전 게임 시스템 [ 4인 프로젝트 ]</strong></summary>
+
+### ✅ 기술스택
 
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white">
@@ -362,5 +390,9 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 - **프로젝트 관리**: 제한된 시간 내 목표 달성을 위한 우선순위 설정과 리스크 관리
 
 **의미**: 개발자로서의 첫 팀 프로젝트이자 리더십 역량의 출발점이 된 프로젝트
+
+</details>
+
+</details>
 
 <br/>
