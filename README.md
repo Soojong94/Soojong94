@@ -140,6 +140,8 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 **프로젝트 개요**: Grafana 대시보드에서 자동으로 차트 이미지를 수집하고, 월간 모니터링 리포트를 HTML 형태로 자동 생성하는 자동화 시스템
 
+**GitHub**: [https://github.com/Soojong94/GrafanaReportGenerator.git]
+
 **Documentation**: [완전한 설치/설정 가이드 포함]
 
 **핵심 성과**:
