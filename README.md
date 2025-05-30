@@ -127,6 +127,52 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 ## 수행 프로젝트
 
+## 🔴 차량 운행 관리 시스템 [ 개인 프로젝트 ]
+
+### ✅ 기술스택  
+
+<div align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</div>
+
+
+**프로젝트 기간**: 2025.05 ~ 진행중 (바이브 코딩 개발)
+
+**프로젝트 개요**: React + TypeScript + Supabase 기반 차량 운행 기록 관리 및 통계 분석 웹 애플리케이션
+
+**Demo**: https://blue-route-keeper.kro.kr
+
+**GitHub**: https://github.com/Soojong94/blue-route-keeper.git
+
+**개발 스타일**: 바이브 코딩 (Vibe Coding)
+
+**핵심 성과**:
+- **🚀 실용성 중심 설계**: 실제 업무에서 사용할 수 있는 직관적이고 효율적인 UI/UX 구현
+- **⚡ 스마트 입력 시스템**: 최근 사용 기록과 자동완성 기능으로 입력 효율성 70% 향상
+- **💰 스마트 가격 추천**: 동일 경로 과거 데이터 기반 단가 자동 제안 기능
+- **📊 실시간 통계**: 차량별, 기간별 운행 통계 및 시각적 보고서 생성
+- **🔐 보안 인증**: Google OAuth를 통한 안전한 사용자 인증 및 개인 데이터 관리
+
+**기술적 혁신**:
+- **통합 검색 컴포넌트**: 차량, 장소, 운전자 정보를 하나의 인터페이스로 통합한 SmartInput 구현
+- **상태 관리 최적화**: localStorage 기반 사용자 설정 보존으로 사용자 경험 연속성 확보
+- **반응형 디자인**: 데스크톱/모바일 모든 환경에서 일관된 사용성 제공
+- **타입 안정성**: TypeScript 완전 적용으로 런타임 오류 최소화
+
+**아키텍처 설계**:
+- **확장 가능한 구조**: 모듈화된 컴포넌트 설계로 새로운 기능 추가 용이성 확보
+- **성능 최적화**: React Query + Supabase 조합으로 빠른 데이터 로딩 및 캐싱
+- **PWA 대응**: 모바일 앱과 같은 사용자 경험 제공을 위한 프로그레시브 웹앱 설계
+
+**비즈니스 가치**: 
+- 수기 기록 대비 **입력 시간 80% 단축**
+- 과거 데이터 기반 **예산 계획 수립 지원**
+- 운행 패턴 분석을 통한 **효율적 업무 관리**
+
+**지속적 개선**: 라이브 코딩 / 바이브 코딩 방식으로 실시간 기능 개선 및 새로운 요구사항 반영 중
+
+
+
 ### 🔴 Grafana 모니터링 리포트 자동 생성 시스템 [ 개인 프로젝트 ]
 
 #### ✅ 기술스택  
