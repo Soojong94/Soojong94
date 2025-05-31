@@ -131,7 +131,6 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 </details>
 
-<br/>
 
 <details>
 <summary>🔥 <strong>언어와 도구</strong></summary>
