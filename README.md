@@ -26,7 +26,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 > **실제 10개 공공기관의 프로덕션 환경을 직접 관제하며 쌓은 실무 경험**
 
 ###  **Full-Stack Infrastructure Engineer**
-> **기획부터 배포, 운영, 보안까지** 
+> **기획부터 배포, 운영, 보안까지**
 > end-to-end 인프라 생명주기를 모두 다룰 수 있는 전문가
 
 ###  **신속한 문제 해결 능력**
@@ -39,9 +39,9 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 <summary> <strong>Production Infrastructure Management</strong></summary>
 
 ###  공공기관 클라우드 인프라 관제 (10개 기관)
-- **운영 안정성 99.9% 달성** (연간 다운타임 8시간 미만)
-- **비용 최적화 30% 절감** (클라우드 리소스 효율화를 통한)
-- **보안 사고 0건** (2024년 기준 보안 정책 100% 준수)
+- **운영 안정성 99.9% 달성**(연간 다운타임 8시간 미만)
+- **비용 최적화 30% 절감**(클라우드 리소스 효율화를 통한)
+- **보안 사고 0건**(2024년 기준 보안 정책 100% 준수)
 
 ###  주요 업무 영역
 -  **Security Consulting**: 접속 차단, 보안 정책 수립
@@ -56,15 +56,15 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 <summary> <strong>Achievements</strong></summary>
 
 ###  주요 성과
-- ** 시스템 안정성 99.9% 달성** - 10개 공공기관 무중단 서비스 운영
-- ** 클라우드 비용 30% 절감** - 인프라 최적화를 통한 예산 효율성 증대
-- ** 보안 사고 제로** - 체계적인 보안 정책 수립 및 관리
-- ** 교육기관 프로젝트 팀장 3회 및 스터디 장** - 검증된 리더십과 프로젝트 관리 능력
+- **시스템 안정성 99.9% 달성**- 10개 공공기관 무중단 서비스 운영
+- **클라우드 비용 30% 절감**- 인프라 최적화를 통한 예산 효율성 증대
+- **보안 사고 제로**- 체계적인 보안 정책 수립 및 관리
+- **교육기관 프로젝트 팀장 3회 및 스터디 장**- 검증된 리더십과 프로젝트 관리 능력
 
 ###  멘토링 & 교육 경력
-- **교육기관 멘토** (클라우드 특례/AI서비스 엔지니어 과정, 2024-2025)
-- **대학교 클라우드 특강** (다수 대학교 AWS/NCP 교육)
-- **고등학교 진로 멘토링** (SW마이스터고 클라우드 진로 특강)
+- **교육기관 멘토**(클라우드 특례/AI서비스 엔지니어 과정, 2024-2025)
+- **대학교 클라우드 특강**(다수 대학교 AWS/NCP 교육)
+- **고등학교 진로 멘토링**(SW마이스터고 클라우드 진로 특강)
 
 </details>
 
@@ -121,31 +121,57 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 <details>
 <summary> <strong>Fun Facts About Me</strong></summary>
 
-- ** Problem Solver**: 알고리즘 문제 해결을 즐기며, 이 논리적 사고를 실무에 적용
-- ** Tech Educator**: 복잡한 기술을 쉽게 설명하는 강의와 멘토링 전문가
-- ** Goal-Oriented**: "왜?"를 끊임없이 질문하며 근본적인 해결책을 찾는 스타일
-- ** Team Player**: 3번의 팀장 경험으로 검증된 리더십과 소통 능력
+- **Problem Solver**: 알고리즘 문제 해결을 즐기며, 이 논리적 사고를 실무에 적용
+- **Tech Educator**: 복잡한 기술을 쉽게 설명하는 강의와 멘토링 전문가
+- **Goal-Oriented**: "왜?"를 끊임없이 질문하며 근본적인 해결책을 찾는 스타일
+- **Team Player**: 3번의 팀장 경험으로 검증된 리더십과 소통 능력
 
-** "기술은 사람을 위해 존재한다"는 신념으로, 
+**"기술은 사람을 위해 존재한다"는 신념으로, 
 복잡한 기술을 사용자 친화적인 솔루션으로 만드는 것이 저의 강점입니다.**
 
 </details>
 
 
 <details>
-<summary> <strong>언어와 도구</strong></summary>
+<summary>📂 <strong>수행 프로젝트</strong></summary>
+
+<details>
+<summary>🔴 <strong>Kubernetes 환경 마이그레이션 프로젝트 [ 실무 프로젝트 ]</strong></summary>
+
+### ✅ 기술스택
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/NFS-Storage-orange?style=for-the-badge"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
 </div>
+
+**프로젝트 기간**: 2025.07 ~ 2025.08
+
+**프로젝트 개요**: 공공기관 핵심 서비스의 Kubernetes 환경을 칵테일 클라우드에서 KT KS Managed 상품으로 무중단 마이그레이션
+
+**핵심 성과**:
+- **무중단 마이그레이션**: 블루-그린 배포 전략으로 기존 서비스 무영향 달성
+- **대규모 데이터 이전**: 운영 데이터 실시간 동기화 체계 구축
+- **서비스 최적화**: Service와 ConfigMaps/Secrets 완전 마이그레이션
+- **보안 강화**: Private 아키텍처 설계로 보안성 확보
+
+**기술적 구현**:
+- **Infrastructure as Code**: Private 아키텍처 기반 신규 클러스터 설계
+- **Storage 통합**: NFS 기반 스토리지 연동으로 두 환경 간 실시간 데이터 공유
+- **StatefulSet 관리**: MongoDB 클러스터 무중단 이전 및 데이터 무결성 보장
+- **Monitoring Stack**: Prometheus/Grafana 완전 재구성으로 운영 가시성 확보
+
+**DevOps 전략**:
+- **Blue-Green Deployment**: DNS 전환만으로 3-5분 내 완전한 서비스 전환 가능
+- **Ingress Controller**: 트래픽 라우팅 최적화 및 SSL 터미네이션 구성
+- **ConfigMap/Secret 관리**: 환경별 설정 분리 및 보안 정보 안전한 이관
+
+**비즈니스 임팩트**: 
+- **운영 연속성**: 기존 서비스 다운타임 0분 달성
+- **마이그레이션 진척**: 전체 작업의 100% 안전하게 완료
+- **준비 완료**: DNS 전환만 남겨둔 상태로 언제든 즉시 완전 이전 가능
 
 </details>
 
-<details>
-<summary>📂 <strong>수행 프로젝트</strong></summary>
 
 <details>
 <summary>🔴 <strong>차량 운행 관리 시스템 [ 개인 프로젝트 ]</strong></summary>
@@ -167,11 +193,11 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 **개발 스타일**: 바이브 코딩 (Vibe Coding)
 
 **핵심 성과**:
-- ** 실용성 중심 설계**: 실제 업무에서 사용할 수 있는 직관적이고 효율적인 UI/UX 구현
-- ** 스마트 입력 시스템**: 최근 사용 기록과 자동완성 기능으로 입력 효율성 70% 향상
-- ** 스마트 가격 추천**: 동일 경로 과거 데이터 기반 단가 자동 제안 기능
-- ** 실시간 통계**: 차량별, 기간별 운행 통계 및 시각적 보고서 생성
-- ** 보안 인증**: Google OAuth를 통한 안전한 사용자 인증 및 개인 데이터 관리
+- **실용성 중심 설계**: 실제 업무에서 사용할 수 있는 직관적이고 효율적인 UI/UX 구현
+- **스마트 입력 시스템**: 최근 사용 기록과 자동완성 기능으로 입력 효율성 70% 향상
+- **스마트 가격 추천**: 동일 경로 과거 데이터 기반 단가 자동 제안 기능
+- **실시간 통계**: 차량별, 기간별 운행 통계 및 시각적 보고서 생성
+- **보안 인증**: Google OAuth를 통한 안전한 사용자 인증 및 개인 데이터 관리
 
 **기술적 혁신**:
 - **통합 검색 컴포넌트**: 차량, 장소, 운전자 정보를 하나의 인터페이스로 통합한 SmartInput 구현
@@ -211,20 +237,20 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 **Documentation**: [완전한 설치/설정 가이드 포함]
 
 **핵심 성과**:
-- ** 업무 효율화**: 기존 **수동 4시간 → 자동 10분**으로 **96% 시간 단축**
-- ** 무인 자동화**: VPN을 통한 원격 자동 수집 및 리포트 생성
-- ** 통합 관리**: 서로 다른 모니터링 환경을 단일 설정으로 통합 관리
-- ** 보안 준수**: 보안 정책을 만족하는 안전한 API 토큰 기반 인증
+- **업무 효율화**: 기존 **수동 4시간 → 자동 10분**
+- **무인 자동화**: VPN을 통한 원격 자동 수집 및 리포트 생성
+- **통합 관리**: 서로 다른 모니터링 환경을 단일 설정으로 통합 관리
+- **보안 준수**: 보안 정책을 만족하는 안전한 API 토큰 기반 인증
 
 **기술적 도전과 해결**:
 - **API 최적화**: Grafana 이미지 렌더링 API를 활용한 대용량 차트 자동 다운로드 시스템 구축
 - **템플릿 엔진 개발**: Jinja2 스타일의 커스텀 HTML 템플릿 시스템으로 동적 리포트 생성
-- **설정 통합**: 기존 분산된 JSON 설정을 unified_config.json 하나로 통합하여 관리 복잡도 90% 감소
+- **설정 통합**: 기존 분산된 JSON 설정을 unified_config.json 하나로 통합하여 관리 복잡도  감소
 - **오류 처리**: 네트워크 이슈, 토큰 만료, 이미지 렌더링 실패 등 실무 환경의 예외상황 대응
 
 **시스템 아키텍처**:
 
-[수집 대상 10개 기관] 
+[수집 대상 기관] 
    
    ↓ (VPN)
    
@@ -244,8 +270,8 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 - **버전 관리**: 동일 파일명 충돌 방지를 위한 자동 버전 넘버링 시스템
 
 **비즈니스 임팩트**: 
-- **운영 효율성**: 월말 리포트 작업에서 **인적 자원 96% 절약**
-- **품질 향상**: 수동 오류 제거로 **일관된 품질의 리포트** 보장
+- **운영 효율성**: 월말 리포트 작업에서 **인적 자원 절약**
+- **품질 향상**: 수동 오류 제거로 **일관된 품질의 리포트**보장
 - **확장성**: 신규 시스템 추가 시 설정 파일만 수정하면 즉시 적용 가능
 
 **실무 적용**: 매월 안정적으로 모니터링 리포트를 자동 생성하고 있음
@@ -269,10 +295,10 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 **GitHub**: [https://github.com/Soojong94/grpc-error-handling.git]  
 
 **핵심 성과**:
-- ** 에러 처리 패턴 구현**: Circuit Breaker, Deadline, Backpressure 3가지 핵심 패턴 완전 구현
-- ** 실시간 모니터링**: WebSocket 기반 실시간 로그 수집 및 시각화 대시보드 구축
-- ** MSA 아키텍처**: Frontend-BFF-Backend-DB 4계층 마이크로서비스 구조 설계
-- ** 적응형 시스템**: P95 기반 동적 타임아웃 조정 및 서킷브레이커 연동 시스템
+- **에러 처리 패턴 구현**: Circuit Breaker, Deadline, Backpressure 3가지 핵심 패턴 완전 구현
+- **실시간 모니터링**: WebSocket 기반 실시간 로그 수집 및 시각화 대시보드 구축
+- **MSA 아키텍처**: Frontend-BFF-Backend-DB 4계층 마이크로서비스 구조 설계
+- **적응형 시스템**: P95 기반 동적 타임아웃 조정 및 서킷브레이커 연동 시스템
 
 **기술적 구현**:
 - **Circuit Breaker**: 실패율 기반 자동 차단 및 Half-Open 상태 관리
@@ -311,10 +337,10 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 **PPT**: https://www.miricanvas.com/v/137qox2
 
 **핵심 성과**:
-- ** 배포 자동화**: CI/CD 파이프라인 구축
-- ** 보안 구현**: HTTPS 적용으로 Google OAuth 정책 준수 및 사용자 인증 시스템 구축  
-- ** 비용 최적화**: EKS 대신 EC2 기반 K8s 클러스터 직접 구성으로 **70% 비용 절감**
-- ** 성능 최적화**: Nginx 리버스 프록시와 Let's Encrypt SSL 적용
+- **배포 자동화**: CI/CD 파이프라인 구축
+- **보안 구현**: HTTPS 적용으로 Google OAuth 정책 준수 및 사용자 인증 시스템 구축  
+- **비용 최적화**: EKS 대신 EC2 기반 K8s 클러스터 직접 구성으로 **70% 비용 절감**
+- **성능 최적화**: Nginx 리버스 프록시와 Let's Encrypt SSL 적용
 
 **기술적 도전과 해결**:
 - **인프라 아키텍처 설계**: 개발/스테이징/프로덕션 환경 분리 및 무중단 배포 구현
@@ -344,10 +370,10 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 **PPT**: https://url.kr/qjo4vw
 
 **핵심 성과**:
-- ** 설계 주도 개발**: 요구사항 분석부터 DB 설계까지 전체 시스템 아키텍처 설계
-- ** 자기주도 학습**: 팀 전체가 React/Express.js 기술 스택을 독학으로 습득 후 프로덕션 레벨 구현
-- ** 애자일 방법론**: 브레인스토밍 → 기획서 → DB 설계서 → 화면 설계서 단계별 문서화
-- ** 문제 해결**: Git 버전 충돌 및 의존성 관리 이슈 해결로 팀 개발 효율성 향상
+- **설계 주도 개발**: 요구사항 분석부터 DB 설계까지 전체 시스템 아키텍처 설계
+- **자기주도 학습**: 팀 전체가 React/Express.js 기술 스택을 독학으로 습득 후 프로덕션 레벨 구현
+- **애자일 방법론**: 브레인스토밍 → 기획서 → DB 설계서 → 화면 설계서 단계별 문서화
+- **문제 해결**: Git 버전 충돌 및 의존성 관리 이슈 해결로 팀 개발 효율성 향상
 
 **기술적 성장**:
 - **시스템 사고**: 단순 기능 구현이 아닌 확장 가능한 아키텍처 설계 경험
@@ -377,10 +403,10 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 **PPT**: https://url.kr/imafjw
 
 **핵심 성과**:
-- ** 첫 리더십 경험**: 팀장으로서 프로젝트 일정 관리 및 팀원 간 업무 분배
-- ** 데이터 설계**: Oracle DB 기반 사용자 정보, 게임 기록, 랭킹 시스템 설계 및 구현
-- ** 프로세스 정립**: 개발 전 문서화 작업의 중요성 인식 및 체계적 개발 프로세스 경험
-- ** 협업 문화**: 코드 리뷰와 버전 관리를 통한 팀 개발 기초 역량 구축
+- **첫 리더십 경험**: 팀장으로서 프로젝트 일정 관리 및 팀원 간 업무 분배
+- **데이터 설계**: Oracle DB 기반 사용자 정보, 게임 기록, 랭킹 시스템 설계 및 구현
+- **프로세스 정립**: 개발 전 문서화 작업의 중요성 인식 및 체계적 개발 프로세스 경험
+- **협업 문화**: 코드 리뷰와 버전 관리를 통한 팀 개발 기초 역량 구축
 
 **학습 성과**:
 - **시스템 이해**: Java 애플리케이션의 메모리 관리와 객체 생명주기 이해
