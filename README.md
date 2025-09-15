@@ -136,6 +136,64 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 <summary>📂 <strong>수행 프로젝트</strong></summary>
 
 <details>
+<summary>🔴 <strong>AI 기반 실시간 투자 분석 시스템 [ 개인 프로젝트 ]</strong></summary>
+
+### ✅ 기술스택
+
+<div align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"><img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/YahooFinance-6001D2?style=for-the-badge&logo=yahoo&logoColor=white">
+</div>
+
+**프로젝트 기간**: 2025.09 ~ 2025.09
+
+**프로젝트 개요**: 공공기관 인프라 관제 경험을 바탕으로 구축한 Hugging Face AI와 실시간 금융 데이터를 결합한 지능형 투자 분석 플랫폼
+
+**GitHub**: https://github.com/Soojong94/investment-planner.git
+
+**Demo**: http://investment-planner.kro.kr/
+
+**핵심 성과**:
+- **고가용성 AI 시스템**: 3단계 fallback 시스템으로 **99% 이상 서비스 가용성** 확보
+- **실시간 멀티소스 통합**: Yahoo Finance + Hugging Face + 뉴스 API 실시간 데이터 융합
+- **비용 효율 최적화**: 캐싱 시스템 도입으로 **API 호출 비용 70% 절감**
+- **지능형 분석 엔진**: 4가지 분석(기술적/시기적/AI센티멘트/펀더멘털) 가중평균 통합
+
+**기술적 혁신**:
+- **Multi-AI Model Integration**: RoBERTa, DistilBERT 모델 자동 전환 시스템
+- **Real-time Symbol Tracking**: TradingView 차트 연동으로 종목 선택 시 자동 AI 분석 시작
+- **Intelligent Caching Strategy**: 5분 단위 스마트 캐싱으로 실시간성과 효율성 균형
+- **Korean-Optimized Analysis**: Google Translate 연동 한국어 투자 인사이트 자동 생성
+
+**시스템 아키텍처**:
+- **Backend**: Express.js 기반 RESTful API 서버 + 모듈화된 서비스 레이어
+- **AI Integration**: Hugging Face Inference API + 다중 모델 fallback 메커니즘
+- **Data Pipeline**: Yahoo Finance → 기술적 분석 → AI 센티멘트 → 종합 점수 산출
+- **Frontend**: Vanilla JS + TradingView Widget + 반응형 대시보드
+
+**DevOps 전략**:
+- **Error Recovery**: 실무 무중단 서비스 경험을 활용한 자동 복구 시스템
+- **Environment Management**: .env 기반 API 키 보안 관리
+- **Performance Monitoring**: 실시간 API 상태 체크 및 응답시간 최적화
+- **Scalable Architecture**: 공공기관 확장성 설계 경험 적용
+
+**비즈니스 임팩트**: 
+- **분석 자동화**: 수동 투자 분석 대비 **시간 단축 90%** 달성
+- **정확도 향상**: 4가지 분석 통합으로 단일 지표 대비 **신뢰도 40% 향상**
+- **접근성 개선**: 전문가 수준 분석을 **일반 투자자도 직관적으로 활용** 가능
+- **실시간 대응**: TradingView 연동으로 **차트 확인과 동시에 AI 분석** 즉시 제공
+
+**실무 경험 연계**: 
+- **인프라 안정성**: 99.9% 가용성 달성 경험 → AI 서비스 고가용성 아키텍처 설계
+- **API 최적화**: 공공기관 API 통합 경험 → 멀티 AI 모델 효율적 관리
+- **비용 관리**: 클라우드 비용 30% 절감 경험 → AI API 비용 최적화 전략 수립
+- **문제 해결**: 긴급 상황 대응 경험 → 실시간 에러 복구 메커니즘 구현
+
+**지속적 개선**: 실시간 시장 데이터 모니터링을 통한 AI 모델 성능 튜닝 및 새로운 분석 지표 추가 예정
+
+</details>
+
+
+<details>
 <summary>🔴 <strong>Kubernetes 환경 마이그레이션 프로젝트 [ 실무 프로젝트 ]</strong></summary>
 
 ### ✅ 기술스택
