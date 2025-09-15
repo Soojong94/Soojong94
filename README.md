@@ -15,7 +15,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 ##
  **Current Focus**: Kubernetes, Infrastructure Monitoring, Cloud Architecture Design  
- **Monitoring**: 지역별 10개 공공기관  
+ **Monitoring**: 공공기관 클라우드 인프
  **Specialization**: IaaS, Middleware, Troubleshooting, Linux
 
 <details>
@@ -23,7 +23,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 ###  **공공기관 실무 경험 보유자**
 > 이론이나 토이프로젝트 경험만 있는 게 아닌,
-> **실제 10개 공공기관의 프로덕션 환경을 직접 관제하며 쌓은 실무 경험**
+> **실제 공공기관의 프로덕션 환경을 직접 관제하며 쌓은 실무 경험**
 
 ###  **Full-Stack Infrastructure Engineer**
 > **기획부터 배포, 운영, 보안까지**
