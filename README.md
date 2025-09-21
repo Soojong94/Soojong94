@@ -119,7 +119,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 </details>
 
 <details>
-<summary> <strong>Fun Facts About Me</strong></summary>
+<summary> <strong>About Me</strong></summary>
 
 - **Problem Solver**: 알고리즘 문제 해결을 즐기며, 이 논리적 사고를 실무에 적용
 - **Tech Educator**: 복잡한 기술을 쉽게 설명하는 강의와 멘토링 전문가
