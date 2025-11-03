@@ -108,9 +108,9 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 - **Translation Service**: Text/Website Translation 혼합 사용으로 비용 최적화
 
 ###  Performance & Infrastructure
-- **A지역 CDN 추가**: 글로벌 콘텐츠 전송 최적화
-- **B지역 Load Balancer 구성**: 사이트 트래픽 분산 아키텍처 설계
-- **C지역 로그 수집**: Agent 설치를 위한 네트워크 구성
+- **CDN 추가**: 글로벌 콘텐츠 전송 최적화
+- **Load Balancer 구성**: 사이트 트래픽 분산 아키텍처 설계
+- **로그 수집**: Agent 설치를 위한 네트워크 구성
 
 ###  Monitoring & Troubleshooting
 - **메일 서버 용량 최적화**: 스토리지 사용량 분석 및 용량 할당 전략 수립
