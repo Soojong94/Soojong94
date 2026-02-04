@@ -1,6 +1,6 @@
 # Soojong Kim
 
-**Infrastructure Lead at TBIT**
+**Cloud Solutions Architect**
 
 TBIT 클라우드 사업부 구축팀에서 기술 책임을 맡고 있습니다. Kubernetes 를 기반으로 멀티 클라우드 인프라 아키텍처 설계와 구축을 수행하며, 팀 내 기술 검수(QA)와 운영 프로세스 효율화를 담당하고 있습니다.
 
