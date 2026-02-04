@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Soojong Kim 
-** Cloud Solutions Architect | Infrastructure Specialist**
+**Cloud Solutions Architect | Infrastructure Specialist**
 </div>
 
 현재 클라우드 인프라를 관제하며, **IaaS부터 Kubernetes**까지 
