@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=KIM%20SOOJONG&reversal=true">
 
-# Hi, I'm Soojong Kim 👋
-**🔥 Cloud Solutions Architect | Infrastructure Specialist**
+# Hi, I'm Soojong Kim 
+** Cloud Solutions Architect | Infrastructure Specialist**
 </div>
 
 현재 클라우드 인프라를 관제하며, **IaaS부터 Kubernetes**까지 
@@ -10,8 +9,8 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 
 "체계적인 요구사항 분석을 통해 최적의 사용자 경험을 제공하는 것"이 저의 목표입니다.
 
-## 🌐 Link
-**☁️ Cloud Knowledge Base**: https://cloudrepo.kro.kr/
+##  Link
+** Cloud Knowledge Base**: https://cloudrepo.kro.kr/
 
 ##
  **Current Focus**: Kubernetes, Infrastructure Monitoring, Cloud Architecture Design  
