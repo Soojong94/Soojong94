@@ -90,5 +90,5 @@ TBIT 클라우드 사업부 구축팀에서 기술 책임을 맡고 있습니다
 ### Contact
 
 * **Organization**: TBIT
-* **Role**: Infrastructure Build Team Lead
+* **Role**: Cloud Solutions Architect
 * **Blog**: [cloudrepo.kro.kr](https://cloudrepo.kro.kr/)
