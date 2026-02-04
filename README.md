@@ -10,7 +10,7 @@ end-to-end 클라우드 솔루션을 설계하고 운영하는 Cloud SA입니다
 "체계적인 요구사항 분석을 통해 최적의 사용자 경험을 제공하는 것"이 저의 목표입니다.
 
 ##  Link
-** Cloud Knowledge Base**: https://cloudrepo.kro.kr/
+**Cloud Knowledge Base**: https://cloudrepo.kro.kr/
 
 ##
  **Current Focus**: Kubernetes, Infrastructure Monitoring, Cloud Architecture Design  
