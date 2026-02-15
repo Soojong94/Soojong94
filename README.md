@@ -1,95 +1,98 @@
 # Soojong Kim
 
-**Cloud Solutions Architect**
+**Cloud Solutions Architect | Infrastructure Lead at TBIT**
 
-TBIT 클라우드 사업부 구축팀에서 책임을 맡고 있습니다. Kubernetes 를 기반으로 멀티 클라우드 인프라 아키텍처 설계와 구축을 수행하며, 팀 내 기술 검수(QA)와 운영 프로세스 효율화를 담당하고 있습니다.
+TBIT 클라우드 사업부 구축팀의 기술 책임을 맡고 있습니다. KT Cloud, NCP, AWS, NHN Cloud 환경에서 인프라 아키텍처 설계와 기술 검수를 수행하며, 모니터링 체계 구축 및 운영 프로세스 표준화를 담당합니다.
 
-## Core Responsibilities
+## Technical Stack
 
-* **Lead Architect**: KT Cloud Managed KS 구축 및 멀티 클라우드(AWS, NCP, NHN) 인프라 설계
-* **Quality Assurance**: 구축 산출물(견적서, 구성도, 기술 문서) 최종 검토 및 기술 승인
-* **Process Design**: 업무 관리 체계 도입 및 구축 프로세스 표준화
-* **Automation**: 스크립트 기반 운영 리포트 및 구축 문서 생성 자동화
-
----
-
-## Technical Expertise
-
-* **Cloud Platform**: KT Cloud, Naver Cloud Platform, AWS, NHN Cloud
-* **Container**: Kubernetes Cluster Design, Workload Migration, Harbor, Docker
-* **Security & Network**: WAF Policy, SSL/TLS Management, Ingress/LB, Firewall Configuration
-* **Monitoring**: Prometheus, Grafana, Agent-based Logging System
+* **Cloud**: KT Cloud, Naver Cloud Platform, AWS, NHN Cloud
+* **Container**: Kubernetes (Managed KS), Docker, Container Migration
+* **Monitoring**: LGTM Stack (Loki, Grafana, Tempo, Mimir), Prometheus
+* **Security & Network**: WAF Policy, SSL/TLS, Ingress/LB, Firewall Strategy
+* **Automation**: Python/PowerShell 기반 운영 리포트 및 업무 자동화
 
 ---
 
-## 2025 Key Achievements
+## 2025 Key Achievements (Quantitative)
 
-### Infrastructure Build & Migration
-
-* **Managed Kubernetes**: 공공기관 및 민간 서비스 대상 Kubernetes 클러스터 최적화 구축 및 컨테이너 환경 마이그레이션 수행
-* **AI Infra Support**: 의료 및 교육기관 대상 AI API 연동, Object Storage 아키텍처 설계 및 기술 지원
-* **Security Hardening**: 보안 취약점 점검, 악성 트래픽 차단 정책 수립 및 실전 장애 대응
-
-### Operational Efficiency
-
-* **Work Process Optimization**: 구축팀 업무 가시화를 위한 워크플로우 설계 및 협업 효율 개선
-* **Report Automation**: 운영 리포트 자동 생성 시스템 구축을 통한 반복 작업 시간 단축
-* **Technical Mentoring**: 대학 및 교육기관 대상 멀티 클라우드 실무 교육 및 사내 기술 스터디 리딩
+* **기술 검수 및 승인**: 연간 50건 이상의 인프라 설계서 및 산출물 최종 기술 검토 수행
+* **자동화 성과**: 운영 리포트 자동 생성 시스템 구축을 통한 반복 작업 시간 90% 이상 단축
+* **기술 교육 실적**: 대학 및 공공 교육기관 대상 연간 200시간 이상의 클라우드 기술 교육 진행
+* **운영 안정성**: 담당 고객사 인프라 가용성 99.9% 유지 및 기술 지원 120건 이상 완료
 
 ---
 
-## Professional Projects (2025)
+## Work Operations (Build & Monitoring)
 
-<details>
-<summary>Cloud Infrastructure Build & Migration</summary>
+### 인프라 구축 및 마이그레이션
 
-* **Managed KS 클러스터 구축**: 공공 교육기관 인프라 최적화 및 보안 정책 적용
-* **워크로드 무중단 마이그레이션**: 민간 서비스의 기존 클라우드 환경을 Managed KS로 안정적 이전
-* **인프라 현행화**: 다수 고객사 대상 아키텍처 고도화 및 운영 문서 현행화 책임 수행
+* **클라우드 구축**: 공공 및 민간 서비스 대상 KT Cloud Managed KS 및 멀티 클라우드 인프라 설계·구축
+* **워크로드 이전**: 기존 레거시 인프라의 컨테이너 환경 마이그레이션 및 서비스 최적화
+* **AI 인프라 지원**: 의료·교육기관 AI 서비스 도입을 위한 API 연동 및 데이터 파이프라인 기술 지원
 
-</details>
+### 모니터링 및 보안 관리
 
-<details>
-<summary>AI & Specialized Solutions</summary>
-
-* **AI 서비스 인프라 설계**: 의료기관 AI 서비스 도입을 위한 클라우드 리소스 설계 및 기술 지원
-* **보안 및 트래픽 관리**: 대규모 접속이 발생하는 공공 사이트 대상 트래픽 분산 및 최적화
-
-</details>
-
-<details>
-<summary>Automation & Process Improvement</summary>
-
-* **운영 리포트 자동화**: 월간 매니지드 리포트 자동 생성 파이프라인 구축
-* **기술 검수 프로세스**: 팀 내 산출물 품질 관리를 위한 최종 검수 단계 정착 및 가이드 표준화
-
-</details>
+* **LGTM/Prometheus 구축**: Grafana 기반 통합 모니터링 대시보드 설계 및 로깅 시스템 구축
+* **보안 정책 수립**: WAF 최적화, 악성 트래픽 차단, 보안 취약점 점검 및 대응 프로세스 운영
+* **품질 관리(QA)**: 구축팀 산출물 표준화 및 최종 기술 승인(Approval) 프로세스 책임 운영
 
 ---
 
-## 2024 Technical Archives
-
-<details>
-<summary>이전 프로젝트 및 활동</summary>
-
-### 주요 수행 업무
-
-* **공공기관 인프라 관제**: 다수 공공기관 클라우드 인프라 운영 및 안정성 유지
-* **비용 및 리소스 최적화**: 클라우드 자원 효율화를 통한 운영 비용 절감 실현
-* **교육 및 멘토링**: SW마이스터고 및 대학 대상 클라우드 기술 멘토 활동
-
-### 개인 프로젝트
+## Personal Projects
 
 * **AI 기반 데이터 분석 시스템**: 실시간 데이터 연동 및 AI 모델 활용 대시보드 구축
 * **MSA 에러 처리 패턴 구현**: gRPC 환경에서의 장애 전파 방지 패턴 구현
 
+---
+
+## 2024 Work Archive (Infrastructure & Operations)
+
+<details>
+<summary><strong>실무 성과 및 상세 기술 지원 이력 (펼치기)</strong></summary>
+
+###  Cloud Operations & Stability
+
+* **Public Cloud Managed**: 10개 이상 공공기관 인프라 관제 및 가용성 99.9% 유지
+* **SLA Management**: 연간 무중단 운영 및 보안 사고 Zero 달성
+* **Monitoring**: 에이전트 기반 실시간 관제 및 중앙 집중형 로그 수집 환경 구축
+
+###  Cost & Performance Tuning
+
+* **Cost Optimization**: 리소스 전수 조사 및 최적화를 통한 **운영 비용 30% 절감**
+* **Global CDN**: 콘텐츠 전송 최적화를 위한 CDN 캐싱 및 라우팅 설계
+* **Traffic Control**: 로드밸런서(L4/L7) 트래픽 분산 및 가용 영역(AZ) 최적화
+* **API Optimization**: API 전송량 효율화 및 응답 지연 시간(Latency) 개선
+
+###  Security & Compliance
+
+* **Traffic Filtering**: 보안 정책 수립
+* **Risk Assessment**: 신규 AI 플랫폼 도입에 따른 인프라 보안 충돌 분석
+* **Technical Reporting**: 보안 당국 제출용 기술 분석 보고서 및 매뉴얼 작성
+* **Hardening**: 공공기관 보안 가이드라인 준수 및 시스템 강화 수행
+
+###  Infrastructure Engineering
+
+* **Middleware Tuning**: Nginx/Apache 리버스 프록시 최적화 및 커스텀 설정
+* **Storage Management**: 서버 스토리지 분석 및 쿼터(Quota) 할당 최적화
+* **Certificate Management**: 전사 SSL/TLS 인증서 갱신 및 통합 관리 체계 수립
+* **Directory Control**: 시스템 디렉토리 권한 체계 및 접근 제어 정책 적용
+
+###  Education & Mentoring
+
+* **Univ. Mentoring**: 대학교 대상 AWS/NCP 클라우드 실무 및 진로 특강
+* **High School Training**: SW마이스터고 클라우드 직무 역량 강화 멘토링
+* **Staff Education**: 사내 기술 공유 세미나 리딩 및 온보딩 가이드 작성
+
 </details>
 
 ---
 
+
 ### Contact
 
-* **Organization**: TBIT
-* **Role**: Cloud Solutions Architect
+* **Organization**: TBIT (Eutteum IT)
 * **Blog**: [cloudrepo.kro.kr](https://cloudrepo.kro.kr/)
-* **E-mail**: ksj@tbit.co.kr
+* **Role**: Infrastructure Build Team Lead
+
+---
