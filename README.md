@@ -91,7 +91,7 @@ TBIT 클라우드 사업부 구축팀의 기술 책임을 맡고 있습니다. K
 
 ### Contact
 
-* **Organization**: TBIT (Eutteum IT)
+* **Organization**: TBIT (으뜸정보기술)
 * **Blog**: [cloudrepo.kro.kr](https://cloudrepo.kro.kr/)
 * **Role**: Infrastructure Build Team Lead
 
