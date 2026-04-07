@@ -11,6 +11,7 @@ TBIT 클라우드 사업부 구축팀의 기술 책임을 맡고 있습니다. K
 * **Monitoring**: LGTM Stack (Loki, Grafana, Tempo, Mimir), Prometheus
 * **Security & Network**: WAF Policy, SSL/TLS, Ingress/LB, Firewall Strategy
 * **Automation**: Python/PowerShell 기반 운영 리포트 및 업무 자동화
+* Grafana Alloy를 활용한 이기종 OS 통합 Observability 체계 구축 및 운영 리포트/견적 자동화 플랫폼 개발을 통한 기술 운영 효율화 주도
 
 ---
 
