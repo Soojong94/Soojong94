@@ -2,7 +2,7 @@
 
 **Cloud Solutions Architect | Infrastructure Lead at TBIT**
 
-TBIT 클라우드 사업부 구축팀의 기술 책임을 맡고 있습니다. KT Cloud, NCP, AWS, NHN Cloud 환경에서 인프라 아키텍처 설계와 기술 검수를 수행하며, 모니터링 체계 구축 및 운영 프로세스 표준화를 담당합니다.
+TBIT(으뜸정보기술) 클라우드 사업부 구축팀의 기술 책임을 맡고 있습니다. KT Cloud, NCP, AWS, NHN Cloud 환경에서 인프라 아키텍처 설계와 기술 검수를 수행하며, 모니터링 체계 구축 및 운영 프로세스 표준화를 담당합니다.
 
 ---
 
