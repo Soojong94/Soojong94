@@ -18,18 +18,20 @@ KT Cloud · NCP · NHN Cloud · AWS를 공공·민간 구분 없이 다루며, �
 ## Technical Stack
 
 * **Cloud**: KT Cloud · NCP · AWS · NHN Cloud
-* **Container & Monitoring**: Kubernetes · Docker · LGTM Stack · Prometheus · VictoriaMetrics
+* **Container & Monitoring**: Kubernetes · Docker · Istio(Ambient) · LGTM Stack · Prometheus · VictoriaMetrics
 * **Security & Network**: WAF · IPsec/SSL VPN · Ingress/LB · Firewall · NAT/Relay
-* **Automation**: Python · PowerShell · FastAPI · LLM 연동
+* **IaC & Automation**: Terraform · Python · PowerShell · FastAPI · LLM 연동
 
 ---
 
 ## Core Impact
 
 * **MSP 자동화 플랫폼** — 4개 CSP 리소스 수집부터 운영 문서·AI 구축계획서·구성도까지 사전 영업~구축 완료를 하나의 사내 서비스로 통합
+* **IaC 자동화** — 견적서 한 장에서 인프라 설계·Terraform plan·적용까지 연결, 적용/철거 전후 검사로 통제. NCP·AWS 실계정 전수 검증(재 plan 0 · 철거 후 잔여 0)
 * **Multi-CSP 설계·구축** — ERP 클라우드 이전(DMZ/Private 분리, DB 이중화, NAT/Relay), Hybrid 라우팅 장애 해결, 공공 보안관제 연동 설계
 * **공공 클라우드 표준화** — G-Cloud·공공서비스존 경험을 개통 절차 가이드 6종·CSP 구축 템플릿 4종으로 정리
 * **운영 안정성** — 폐쇄망 대응 통합 모니터링 설계, 담당 고객사 가용성 99.9%·운영 비용 30% 절감
+* **기술 교육 체계** — 사내 SA 대상 Cloud-Native 스터디 10주 커리큘럼 설계·리딩, 학습 과정을 공개 기술 노트로 자산화
 
 ---
 
@@ -40,7 +42,20 @@ KT Cloud · NCP · NHN Cloud · AWS를 공공·민간 구분 없이 다루며, �
 
 * **Stack**: Python · FastAPI · SQLite · WebSocket · openpyxl · python-docx · python-pptx · boto3
 * **Features**: 4개 CSP 리소스 수집 → 문서 5종 자동 생성 / 단가표 1만 건 기반 견적 · AI 구축계획서 · 구성도 PPT
+* **IaC Pipeline**: 견적 → 인프라 설계 → Terraform plan → 승인 → 적용. 적용/철거 전 검사·적용 후 실동작 검사로 통제하고, 견적 ↔ 설계 회귀 하네스로 상시 대조
 * **Security & Quality**: RBAC + CIDR 접근 제어, Envelope Encryption, 산출물 35개 전수 검증 및 Injection·Path Traversal 조치
+
+### AWS GPU Platform `2026 · 기관별 배포`
+교육·연구기관용 GPU 사용량 대시보드를 기관마다 독립 테넌트로 배포하고, 다기관을 한 화면에서 운영하는 콘솔
+
+* **Stack**: Python · FastAPI · Terraform · AWS (EC2/SSM/Cost Explorer)
+* **Features**: 기관 → 인프라 → 자원 드릴다운, 사용량·할당량·실비용·2단계 알림 통합, 부팅 시 인프라 ID 재주입으로 재배포 안전성 확보
+
+### CKA Practice Lab `2026 · Open Source`
+killer.sh 수준의 CKA 실습 100문제와 채점 웹 UI
+
+* **Stack**: Shell · Kubernetes · 문제별 배포/검증/정리 스크립트
+* **Features**: 멀티노드 클러스터 대응, 문제별 자동 검증·정리, CoreDNS 등 클러스터 구성요소 비파괴 보장
 
 ### MSP Central Monitoring System `2026`
 중앙 서버 1대로 전 고객사 서버 메트릭을 수집·시각화·알림하는 통합 모니터링
@@ -55,14 +70,20 @@ gRPC 환경의 장애 전파 방지 패턴 구현
 
 ## Education & Mentoring
 
-대학·마이스터고·인재개발원 대상 클라우드·AI 교육 및 해커톤 멘토링 **24회** (2024 ~ 현재, AWS 11 · NCP 10 · NHN 3)
+대학·마이스터고·인재개발원 대상 클라우드·AI 교육 및 해커톤 멘토링 **28회** (2024 ~ 현재, AWS 15 · NCP 10 · NHN 3)
+
+사내 SA 대상 Cloud-Native 스터디(컨테이너·Docker·Kubernetes) 10주 과정을 설계·리딩 중이며, 강의·스터디 자료와 기술 노트는 [블로그](https://cloudrepo.kro.kr/)에 공개합니다.
 
 <details>
 <summary><strong>🎓 전체 교육·멘토링 이력 (Click to expand)</strong></summary>
 
 | 과정 | CSP | 역할 | 기간 |
 | --- | --- | --- | --- |
-| 광주소프트웨어마이스터고 AWS·AI 교육 | AWS | 주강사 | 2026.07.20 – 07.22 |
+| 소프트웨어마이스터고 연합 해커톤 멘토링 | AWS | 주멘토 | 2026.11.04 – 11.06 |
+| 전남대학교 AI 해커톤 멘토링 | AWS | 주멘토 | 2026.10.30 – 10.31 |
+| 조선대학교 AWS 기반 클라우드 실습 교육 | AWS | 보조강사 | 2026.09.30 – 10.02 |
+| 광주대학교 AI 부트캠프 해커톤 | AWS | 멘토 | 2026.08.31 – 09.02 |
+| 광주소프트웨어마이스터고 AWS·AI(RAG) 교육 | AWS | 주강사 | 2026.07.20 – 07.22 |
 | 광주대학교 프롬프트 엔지니어링 (AI) | AWS | 보조강사 | 2026.05.12 – 05.26 |
 | 광주소프트웨어마이스터고 AWS 교육 | AWS | 주강사 | 2026.05.07 |
 | 조선대학교 AWS SA Associate 자격증 교육 | AWS | 보조강사 | 2025.12.29 – 12.30 |
@@ -93,6 +114,49 @@ gRPC 환경의 장애 전파 방지 패턴 구현
 
 <details>
 <summary><strong>📂 Detailed Work History & Quarterly Achievements (Click to expand)</strong></summary>
+
+### 2026 요약
+
+* **플랫폼** — 견적 → 설계 → IaC 적용 → 운영 문서까지 MSP 과업 전 과정을 사내 서비스 하나로 통합, 사내 운영 중
+* **구축** — 멀티 CSP 공공·민간 구축 주담당. ERP 클라우드 이전 오픈, 공공서비스존 신규 구축, 연구 전산 GPU 환경 구축
+* **표준화** — 공공 CSP 개통 절차 가이드 6종 · CSP 구축 템플릿 4종 · Confluence 기반 기술 지식 체계 수립
+* **교육** — 대학·마이스터고 대상 클라우드·AI 교육 및 해커톤 멘토링 7회 (전건 AWS)
+* **스터디 리딩** — 사내 SA 대상 Cloud-Native 스터디 10주 과정 설계·운영 (강의·실습 자료 21종 직접 작성)
+* **공개** — CKA 실습 랩 100문제, Service Mesh & LGTM Observability 심화 스터디 25편
+
+### 2026 Q4 (10~11월)
+
+#### 자동화 플랫폼 — IaC 전환
+
+* **견적 → 설계 → 적용 파이프라인 통합**: 별도로 검증하던 IaC 코어를 Cloud Resource Collector 안으로 합쳐, 견적서 한 장에서 설계·Terraform plan·승인·적용까지 한 흐름으로 처리
+* **안전장치 설계**: 적용 전(교체·삭제·드리프트·이름 충돌)·철거 전·적용 후 실동작 검사, 민감값 산출물 노출 차단
+* **실계정 전수 검증**: NCP 44개 · AWS 59개 적용·철거 — 재 plan 0 · 잔여 0, 견적 → 설계 회귀 33건(66 설계) 전수 일치
+* **CSP 제약 대응**: ncloud provider 3.x → 4.x 전환, 실측 이미지 목록 기반 OS 선택
+* **운영 연계**: 개인 API 토큰으로 외부 CLI에서 플랫폼 API 호출, 저장된 견적 → 구축계획서 연동
+
+#### GPU 인프라 플랫폼
+
+* **기관별 단일 테넌트 배포**: 교육·연구기관용 GPU 사용량 대시보드를 FastAPI + Terraform으로 기관마다 독립 배포
+* **다기관 중앙 운영 콘솔 설계**: 기관 → 인프라 → 자원 드릴다운에 사용량·할당량·실비용·알림 통합
+* **대학 GPU 인프라 사업 제안**: 제안 자료 작성 및 스케줄링 방식(Slurm vs Kubernetes device plugin) 비교 검토
+
+#### 교육 환경 운영 자동화
+
+* **교육용 클라우드 계정 콘솔**: 교육 환경 생성 → 격리 → 정리를 콘솔화, 적대적 리뷰 기반 권한·격리 경계 하드닝
+
+#### 인프라 구축 및 운영
+
+* **연구 전산 GPU 클라우드 구축 착수**: 연구 중심 대학 계산화학 환경 — GPU 견적 조정 후 구축 착수
+* **구축 완료 및 매니지드 인계 3건**: 공공 산업진흥기관, 지자체 공단 ERP(자체 보안점검 대응), 민간 심화 컨설팅
+* **견적 → 구축 전환**: 공공 대학 AWS 사업
+* **운영 대응**: 민간 제조 고객사 AP 서버 스펙업, 백업 과금 구조 대응
+* **신규 과업 13건 등록**: 공공 의료기관, 지자체 중대재해 예방 플랫폼·농업기술센터, 공공 체육시설 재계약, 제조 백업(Veeam), GPU 견적 다건
+
+#### 스터디 리딩 및 기술 공유
+
+* **사내 Cloud-Native 스터디 설계·리딩 (10/08 ~ 12/10, 총 10회)**: 컨테이너 입문 SA 대상 주 1회 진행, 강의 노트·실습 가이드 21종 직접 작성
+* **Service Mesh & LGTM Observability 심화 스터디 완주**: Sidecar → Ambient 메시, Zero-Trust, PostgreSQL·IaC, Alloy + LGTM 관측까지 로컬 클러스터에서 직접 검증하며 12회차 25편 공개
+* **CKA 실습 랩 공개**: killer.sh 수준 100문제와 채점 웹 UI를 오픈소스로 공개
 
 ### 2026 Q3 (7~9월)
 
